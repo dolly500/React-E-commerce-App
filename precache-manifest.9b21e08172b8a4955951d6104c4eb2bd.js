@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b5b9c9e61d249b76af899dcac55d117b",
+    "revision": "e571b8a699d38b0887d2dc9e996dbea1",
     "url": "https://dolly500.github.io/csb-st35l/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://dolly500.github.io/csb-st35l/static/css/2.58570433.chunk.css"
   },
   {
-    "revision": "bee1bcf1f0234acbedb7",
+    "revision": "5ef08f4c1a6bc3e3b0a4",
     "url": "https://dolly500.github.io/csb-st35l/static/css/main.0d2bfa13.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://dolly500.github.io/csb-st35l/static/js/2.a0e55a2d.chunk.js"
   },
   {
-    "revision": "bee1bcf1f0234acbedb7",
-    "url": "https://dolly500.github.io/csb-st35l/static/js/main.a2ee18a9.chunk.js"
+    "revision": "5ef08f4c1a6bc3e3b0a4",
+    "url": "https://dolly500.github.io/csb-st35l/static/js/main.07ebe293.chunk.js"
   },
   {
     "revision": "4184a379f3b0349334cf",
